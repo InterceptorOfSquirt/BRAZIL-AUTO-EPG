@@ -16,7 +16,7 @@ def filter_channels(input_file, output_file):
     filtered_tree = ET.ElementTree(filtered_root)
     filtered_tree.write(output_file, encoding='utf-8', xml_declaration=True)
 
-input_file = 'sites/mi.tv/mi.tv.channels.xml'
+input_file = 'sites/mi.tv/mi.tv_br.channels.xml'
 output_file = 'updated_channels.xml'
 
 filter_channels(input_file, output_file)

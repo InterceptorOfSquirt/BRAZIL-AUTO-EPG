@@ -1,6 +1,6 @@
 # What is this???
 
-Here you can download EPG for US and UK channels collected from the site tvpassport.com
+Here you can download EPG for Brazil channels collected from the site mi.tv
 
 # How to use?
 
